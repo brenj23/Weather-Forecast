@@ -1,0 +1,15 @@
+body {
+    font-family: 'Fira Sans', sans-serif;
+    
+  }
+  
+  h1,
+  h2,
+  h3 {
+    font-family: 'Merriweather', serif;
+    font-weight: 300;
+    padding: 5px;
+  }
+  #result-content {
+    border: 2px solid black;
+  }
